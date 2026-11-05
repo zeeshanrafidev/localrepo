@@ -357,7 +357,7 @@ export default function Home() {
           <h1>
             Thoughtful design
             <br />
-            for a <span>changing world.</span>
+            for a <span>changing hello world.</span>
           </h1>
           <p className={styles.heroDescription}>
             We build brands and digital experiences for people making a positive
