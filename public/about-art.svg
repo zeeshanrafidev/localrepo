@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" fill="none">
+  <rect width="900" height="700" fill="#DCE5D2"/>
+  <circle cx="676" cy="170" r="83" fill="#F4C985"/>
+  <path d="M0 447.5C103 374 191 364 289 425C387 486 444 512 552 425C660 338 746 348 900 444V700H0V447.5Z" fill="#AEBE9F"/>
+  <path d="M0 524C124 455 227 475 337 535C447 595 534 591 642 500C750 409 818 442 900 486V700H0V524Z" fill="#819578"/>
+  <path d="M0 593C104 545 204 554 309 609C414 664 533 658 643 570C753 482 840 506 900 540V700H0V593Z" fill="#526D5C"/>
+  <path d="M148 505C188 466 226 449 266 447M176 539C208 500 242 482 276 478M717 514C743 482 775 463 812 455M681 546C718 511 754 491 792 484" stroke="#F7F7F1" stroke-opacity=".72" stroke-width="3" stroke-linecap="round"/>
+  <path d="M425 252C425 252 398 218 402 190C406 162 438 159 451 178C465 152 500 159 502 187C504 216 474 247 474 247L450 269L425 252Z" fill="#819578"/>
+  <path d="M450 269V386" stroke="#526D5C" stroke-width="8" stroke-linecap="round"/>
+  <path d="M450 316C427 298 407 296 389 304M450 343C473 325 493 323 511 331" stroke="#526D5C" stroke-width="6" stroke-linecap="round"/>
+</svg>
