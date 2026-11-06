@@ -790,7 +790,7 @@ export default function Home() {
           </div>
 
           <div className={styles.footerColumn}>
-            <h2>Services</h2>
+            <h2>All Services</h2>
             <a href="#services">Brand strategy</a>
             <a href="#services">Visual identity</a>
             <a href="#services">Digital experiences</a>
